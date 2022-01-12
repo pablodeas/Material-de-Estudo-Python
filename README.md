@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou @pablodeas
+- 👀 Estou interessado em Programação, Jogos, Livros de Ficção em geral, Crescimento Psicológico, etc.
+- 🌱 Estou atualmente aprendendo as bases da Programação, especificamente, a Linguagem Python.
+- 📫 O meu e-mail - pablodeas@gmail.com
